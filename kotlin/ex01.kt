@@ -4,6 +4,6 @@ fun main() {
   println("===============")
   println("Nome: Júlia Silveira")
   println("Turma: 3DS")
-  pritnln("Escola: Alberto Gomes Veiga")
+  println("Escola: Alberto Gomes Veiga")
   println("Bem-vindo ao Kotlin!")
 }
